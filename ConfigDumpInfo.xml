@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
 	<ConfigVersions>
-		<Metadata name="Catalog.Контрагенты" id="4cfed180-328c-4356-84bf-51cb103f346c" configVersion="6645602e3dce5c4e989b0f6aab54389700000000">
+		<Metadata name="Catalog.Контрагенты" id="4cfed180-328c-4356-84bf-51cb103f346c" configVersion="2a1243ea4ee0f34ea47923cf0635878500000000">
 			<Metadata name="Catalog.Контрагенты.Attribute.ИНН" id="0d018907-93a3-492c-8563-31ece413acac"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.КПП" id="a31c1b35-335b-4400-bcb2-3f2b0ebb496e"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ПолеОбмена" id="dfa43831-9f5b-4207-b7f6-e57d1645be21"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="8b0d5b11-7d13-4a4a-a37d-e3d6ddc052cd" configVersion="412568db7b835746a15d5dd1417af61800000000"/>
-		<Metadata name="Language.Русский" id="0b40db8c-f19c-4f8a-adad-6e15c4a71176" configVersion="743de2f3834c80459b7346f5f6f278ce00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="8b0d5b11-7d13-4a4a-a37d-e3d6ddc052cd" configVersion="4ffc41acbbdbef4293f5771f4aebb2b800000000"/>
+		<Metadata name="Language.Русский" id="0b40db8c-f19c-4f8a-adad-6e15c4a71176" configVersion="59f443f935769446b54df0ce9961c1c200000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
